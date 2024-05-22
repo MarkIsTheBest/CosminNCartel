@@ -4,7 +4,7 @@ un rep cu toate resursele necesare pentru concursul "Info Educatie"
 # Tutorial pas cu pas
 
 ### 1. General
-- Descarcati rep-ul intrand pe linkul acesta de `Google Drive`: `https://drive.google.com/file/d/1G65uHazqIHrDwf38PjcH2_K94s10Bp83/view?usp=sharing`
+- Descarcati rep-ul intrand pe linkul acesta de `Google Drive`: https://drive.google.com/file/d/1G65uHazqIHrDwf38PjcH2_K94s10Bp83/view?usp=sharing
 
 - In folderul descarcat `Pachet InfoEdu`, intrati in primul rand pe `De Instalat`
   
