@@ -1,7 +1,7 @@
 # CosminNCartel
 un rep cu toate resursele necesare pentru concursul "Info Educatie"
 
-# <Tutorial pas cu pas>
+# Tutorial pas cu pas
 
 ### 1. General
 - Instalati rep-ul apasand pe ![Code Button](https://github.com/MarkIsTheBest/CosminNCartel/assets/56190468/d82a212d-5759-4167-931d-e63cbe108e0d)
@@ -75,8 +75,8 @@ un rep cu toate resursele necesare pentru concursul "Info Educatie"
 
 - Pe controller apasati `Start` si robotul va incepe sa va scrie mesajul!
 
-# </Tutorial pas cu pas>
+# /Tutorial pas cu pas
 
 Daca mai aveti intrebari sunati-ma!
 
--Mark GOAT-ul
+-- Mark GOAT-ul
