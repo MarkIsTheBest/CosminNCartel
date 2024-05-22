@@ -4,8 +4,7 @@ un rep cu toate resursele necesare pentru concursul "Info Educatie"
 # Tutorial pas cu pas
 
 ### 1. General
-- Instalati rep-ul apasand pe ![Code Button](https://github.com/MarkIsTheBest/CosminNCartel/assets/56190468/d82a212d-5759-4167-931d-e63cbe108e0d)
-; ![image](https://github.com/MarkIsTheBest/CosminNCartel/assets/56190468/1f69f3b5-82ec-406a-996e-a5184157be90)
+- Descarcati rep-ul intrand pe linkul acesta de `Google Drive`: https://drive.google.com/file/d/1G65uHazqIHrDwf38PjcH2_K94s10Bp83/view?usp=sharing
 
 - In folderul descarcat `Pachet InfoEdu`, intrati in primul rand pe `De Instalat`
   
